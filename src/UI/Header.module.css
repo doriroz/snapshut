@@ -1,0 +1,16 @@
+.header{
+    background-color: darkslategrey;
+    
+    /* color: aliceblue; */
+}
+
+.header h1{
+    /* margin-top: 10vh; */
+    padding-top: 5vh;
+    font-size: 48px;
+    font-family:  'Indie Flower', cursive;
+    font-weight: 700;
+    letter-spacing: 10px;
+    color: aliceblue;
+    margin-block: 0;
+}
